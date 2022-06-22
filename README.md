@@ -1,8 +1,7 @@
-## Ola! Eu sou o Samuel Lopes 🖐
+## Ola! Eu sou o Samuel Lopes estudante de ADS
 
-- 💻 Atualmente trabalho como auxiliar administrativo, mas pretento passar para aréa da programação 
-- 📚 Estutante de Analise e desenvolvimento de sistemas 
-- 😁 Pronouns: He/Him
+- 💻 Atualmente trabalho como auxiliar administrativo, mas pretento migrar para aréa da programação!
+- 📚 Estutante de Analise e desenvolvimento de sistemas
 
 ![Samuellopes GitHub stats](https://github-readme-stats.vercel.app/api?username=samuellopes&show_icons=true&theme=dark)
 
