@@ -14,4 +14,4 @@
 
  #
  
- ![Snake animation](https://github.com/samuelllopes/samuelllopes/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/samuelllopes/samuelllopes/blob/output/github-contribution-grid-snake.svg)
