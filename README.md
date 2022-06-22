@@ -1,4 +1,4 @@
-## Ola! Eu sou o Samuel Lopes estudante de ADS
+## Ola! Eu sou o Samuel Lopes 🖐
 
 - 💻 Atualmente trabalho como auxiliar administrativo, mas pretento passar para aréa da programação 
 - 📚 Estutante de Analise e desenvolvimento de sistemas 
