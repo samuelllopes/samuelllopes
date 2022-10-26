@@ -3,9 +3,10 @@
 - 💻 Atualmente trabalho como auxiliar administrativo, mas pretento migrar para aréa da programação!
 - 📚 Estutante de Analise e desenvolvimento de sistemas
 
+<div align="center">
 
-  
-![Samuellopes GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelllopes&show_icons=true&theme=dark) <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelllopes&layout=compact&langs_count=7&theme=dark"/> 
+![Samuellopes GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelllopes&show_icons=true&theme=dark) <img height="180em">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelllopes&layout=compact&langs_count=7&theme=dark"/> 
 </div>
 
 #
