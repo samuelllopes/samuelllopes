@@ -1,4 +1,4 @@
-## Ola! Eu sou o Samuel Lopes estudante de ADS
+## Olá!! Me chamo Samuel Lopes
 
 - 💻 Objetivo de atuar na área de tecnologia com foco em dados
 - 📚 Estutante de Análise e desenvolvimento de sistemas
@@ -16,6 +16,5 @@
   <a href="https://www.linkedin.com/in/samuel-lopes-nazario/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
  #
-
  
 ![Snake animation](https://github.com/samuelllopes/samuelllopes/blob/output/github-contribution-grid-snake.svg)
