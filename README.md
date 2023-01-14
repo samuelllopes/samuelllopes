@@ -5,8 +5,8 @@
 
 <div align="center">
 
-![Samuellopes GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelllopes&show_icons=true&theme=dark) <img height="120em">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelllopes&layout=compact&langs_count=7&theme=dark"/> 
+![Samuellopes GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelllopes&show_icons=true&theme=dark) <img height="170em">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelllopes&layout=compact&langs_count=7&theme=dark"/> 
 </div>
 
 #
