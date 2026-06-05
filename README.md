@@ -1,7 +1,7 @@
 ## Olá!! Me chamo Samuel Lopes
 
-- 💻 Objetivo de atuar na área de tecnologia com foco em dados
-- 📚 Estutante de Análise e desenvolvimento de sistemas
+- 💻 Objetivo atuar na area de Analise de Dados
+- 📚 Formado Análise e desenvolvimento de sistemas
 
 <div align="center">
 
