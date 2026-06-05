@@ -1,10 +1,20 @@
-## Olá!! Me chamo Samuel Lopes
+# Olá, eu sou Samuel Lopes 👋
 
-- 💻 Objetivo atuar na area de Analise de Dados
-- 📚 Formado Análise e desenvolvimento de sistemas
+🎯 Analista de Dados em desenvolvimento
 
-## 📊 GitHub Stats
+Sou formado em Análise e Desenvolvimento de Sistemas e atualmente atuo na Stellantis, trabalhando com análise de dados, automação de processos e criação de dashboards para suporte à tomada de decisão.
 
-![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelllopes&show_icons=true)
+## 🚀 Tecnologias
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelllopes&layout=compact)
+- Power BI
+- Power Query
+- DAX
+- Python
+- SQL
+- Excel
+- Git & GitHub
+
+## 📫 Contato
+
+- LinkedIn: [seu-link](https://www.linkedin.com/in/samuel-lopes-nazario/?skipRedirect=true)
+- Email: contato.lopessamuel@gmail.com
